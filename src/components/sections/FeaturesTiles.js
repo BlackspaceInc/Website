@@ -44,7 +44,7 @@ const FeaturesTiles = ({
   );
 
   const sectionHeader = {
-    title: 'Join BlackSpace',
+    title: 'Join BlkSpace',
     paragraph: 'Allows us to connect you with both like minded consumers and drive growth within your business. Our solutions help you scale profits, create intimate relationships with your customer base, and drive business value'
   };
 
@@ -71,10 +71,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    BlackSpace Discovery
+                    BlkSpace Discovery
                     </h4>
                   <p className="m-0 text-sm">
-                    BlackSpace Discovery learns usage patterns and recommends/connects consumers and businesses optimally
+                    BlkSpace Discovery learns usage patterns and recommends/connects consumers and businesses optimally
                     </p>
                 </div>
               </div>
@@ -93,10 +93,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    BlackSpace Marketplace
+                    BlkSpace Marketplace
                     </h4>
                   <p className="m-0 text-sm">
-                    BlackSpace Marketplace provides consumers with black-owned inventory listings 
+                    BlkSpace Marketplace provides consumers with black-owned inventory listings 
                     </p>
                 </div>
               </div>
@@ -115,10 +115,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    BlackSpace Network
+                    BlkSpace Network
                     </h4>
                   <p className="m-0 text-sm">
-                    BlackSpace Network connects platform users and enables the creation of intimate connections/relationships between users
+                    BlkSpace Network connects platform users and enables the creation of intimate connections/relationships between users
                     </p>
                 </div>
               </div>
@@ -137,10 +137,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    BlackSpace Analytics
+                    BlkSpace Analytics
                     </h4>
                   <p className="m-0 text-sm">
-                   BlackSpace Analytics Provides Businesses with customer centric metrics as well as traffic analysis
+                   BlkSpace Analytics Provides Businesses with customer centric metrics as well as traffic analysis
                     </p>
                 </div>
               </div>
@@ -159,10 +159,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                  BlackSpace Partnership
+                  BlkSpace Partnership
                     </h4>
                   <p className="m-0 text-sm">
-                  BlackSpace Partnership allows platform user's to serve as influencers
+                  BlkSpace Partnership allows platform user's to serve as influencers
                     </p>
                 </div>
               </div>
@@ -181,10 +181,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    BlackSpace Ads
+                    BlkSpace Ads
                     </h4>
                   <p className="m-0 text-sm">
-                  BlackSpace Ads provides Ads services for onboarded businesses
+                  BlkSpace Ads provides Ads services for onboarded businesses
                     </p>
                 </div>
               </div>

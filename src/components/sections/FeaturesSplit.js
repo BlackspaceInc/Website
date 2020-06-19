@@ -50,7 +50,7 @@ const FeaturesSplit = ({
   );
 
   const sectionHeader = {
-    title: 'BlackSpace Business',
+    title: 'BlkSpace Business',
     paragraph: 'The complete solution for all your business needs. From analytics to customer relationship management. We do it all'
   };
 
