@@ -61,16 +61,16 @@ const Hero = ({
         <div className={innerClasses}>
           <div className="hero-content">
             <h1 className="mt-0 mb-16 reveal-from-bottom" data-reveal-delay="200">
-               Black<span className="text-color-primary">Space</span>
+              Blk<span className="text-color-primary">Space</span>
             </h1>
             <div className="container-xs">
               <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="400">
-                BlackSpace provides a platform facilitating the discovery and interactions between consumers and black owned businesses. 
+              BlkSpace provides a platform facilitating the discovery and interactions between consumers and black owned businesses. 
                 </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
                   <Button tag="a" color="primary" wideMobile href="https://github.com/BlackspaceInc/Frontend">
-                    Join The BlackSpace Community
+                    Join The BlkSpace Community
                     </Button>
                   <Button tag="a" color="dark" wideMobile href="https://github.com/BlackspaceInc/Frontend">
                     View on Github
