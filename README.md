@@ -111,8 +111,3 @@ In order to track visitors, you need to set an [environment variable](https://cr
 - Copyright 2020 [BlackSpace](https://github.com/BlackspaceInc/Frontend).
 - Use it for personal and commercial projects, but please don’t republish, redistribute, or resell the template.
 - Attribution is not required, although it is really appreciated.
-
-## About Us
-
-We're an Italian developer/designer duo creating high-quality design/code resources for developers, makers, and startups.
-
